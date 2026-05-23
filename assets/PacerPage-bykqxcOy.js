@@ -1,0 +1,1 @@
+import{j as e,A as t}from"./index-CFgWzA4l.js";const s=()=>e.jsx(t,{children:e.jsxs("div",{className:"flex flex-col items-center justify-center px-4 py-20",children:[e.jsx("h1",{className:"text-3xl font-bold text-foreground animate-fade-in",children:"Pacer"}),e.jsx("p",{className:"text-muted-foreground mt-2 animate-fade-in",children:"Coming soon..."})]})});export{s as default};
