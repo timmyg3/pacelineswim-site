@@ -1,1 +1,0 @@
-import{j as e,A as t}from"./index-DxptVP56.js";const a=()=>e.jsx(t,{children:e.jsxs("div",{className:"flex flex-col items-center justify-center px-4 py-20",children:[e.jsx("h1",{className:"text-3xl font-bold text-foreground animate-fade-in",children:"Crew"}),e.jsx("p",{className:"text-muted-foreground mt-2 animate-fade-in",children:"Coming soon..."})]})});export{a as default};
