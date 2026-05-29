@@ -1,0 +1,1 @@
+var e=`/assets/paceline-logo-DJFpdoPR.png`;export{e as t};
