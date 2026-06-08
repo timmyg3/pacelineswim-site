@@ -1,1 +1,0 @@
-import{t as e}from"./supabase-pZqAbg6f.js";var t=e(`https://auth.pacelineswim.com`,`sb_publishable_jvWqoP83dbXH4At-y4w4ZA_C4LKwLPW`,{auth:{storage:localStorage,persistSession:!0,autoRefreshToken:!0}});export{t};
