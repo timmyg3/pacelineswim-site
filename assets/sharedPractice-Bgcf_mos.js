@@ -1,0 +1,1 @@
+var e=`paceline_pending_practice_favorite_v1`,t=`https://apps.apple.com/us/app/paceline-labs/id6771792701`;function n(e){return`https://pacelineswim.com/practice/${encodeURIComponent(e)}`}function r(e){return n(e)}function i(e){return`pacelinelabs://practice/${encodeURIComponent(e)}`}export{r as i,e as n,i as r,t};
